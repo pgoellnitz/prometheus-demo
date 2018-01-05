@@ -7,6 +7,7 @@ This project demonstrates the possibilities of monitoring with Prometheus.
 This project contains the following components:
 
 * [Prometheus](https://prometheus.io)
+* [Prometheus Pushgateway](https://github.com/prometheus/pushgateway) push acceptor for ephemeral and batch jobs
 * [Prommer](https://github.com/tomverelst/prommer) for custom target discovery
 * [Alert Manager](https://github.com/prom/alertmanager) for managing alerts
 * [Grafana](http://grafana.org/) for metric and analytic dashboards
